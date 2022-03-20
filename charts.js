@@ -105,7 +105,7 @@ function init() {
         paper_bgcolor: 'rgba(0,0,0,0)',
         plot_bgcolor: 'rgba(0,0,0,0)',
         font: {
-          color: 'white',
+          color: 'black',
           weigt: 'bold'
         }
       }
@@ -136,7 +136,7 @@ function init() {
         paper_bgcolor: 'rgba(0,0,0,0)',
         plot_bgcolor: 'rgba(0,0,0,0)',
         font: {
-          color: 'white',
+          color: 'black',
           weigt: 'bold'
         }
       };
@@ -174,7 +174,7 @@ function init() {
         paper_bgcolor: 'rgba(0,0,0,0)',
         plot_bgcolor: 'rgba(0,0,0,0)',
         font: {
-          color: 'white',
+          color: 'black',
           weigt: 'bold'
         }
       };
